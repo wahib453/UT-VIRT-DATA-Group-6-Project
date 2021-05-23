@@ -11,7 +11,7 @@ In segment one we'll complete the following tasks:
 For our final project, we'll source a dataset from the US Census Bureau API. This dataset will include individual demographic information - such as age, gender and race - as well as education level and salary. Our machine learning model will predict whether an individual is likely to earn a yearly income below a certain threshold. 
 
 ### Project Objective
-Users will see if their income is projected to be below the yearly threshold. For individuals who are interested, we'll also provide resources to help them reach their career and life goals.
+Health, education and income - among numerous other factors - influence quality of life. Our goal is to create a model that will allow users to see if their income is likely to be below the yearly threshold. For individuals who are interested, we'll also provide resources to help them reach their career and life goals.
 
 ![](HealthyPeopleGraphic.png)
 
