@@ -33,6 +33,11 @@ Team members will be expected to present a provisional machine learning model th
 - Takes in data from the provisional database
 - Outputs label for input data
 
+Basic machine learning process:
+- A machine learning model is presented with a dataset
+- The model algorithms analyze the data and attempt to identify patterns
+- Based on these patterns, the model makes predictions on new data
+
 ## Database Integration
 Team members will be expected to present a provisional database that stands in for the final database and accomplishes the following:
 
