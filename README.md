@@ -1,6 +1,6 @@
 # UT-VIRT-DATA-Group-6-Project
 
-### Project Overview
+### Segment Overview
 In segment one we'll complete the following tasks:
 - Create the foundation for the final project and - importantly - decide on a topic/question that can be answered using data
 - Define roles between team members and establish a team communication structure
@@ -16,10 +16,13 @@ Health, education and income - among numerous other factors - influence quality 
 ![](HealthyPeopleGraphic.png)
 
 ## Work as a Team
-- Square: The team member in the square role will be responsible for the repository.
+As a virtual team, we share the same goal - but we have different obligations and responsibilities outside of this project. In order to reach our goal, we will communicate through Slack and work concurrently via Github. Group members are expected to meet on Monday and Wednesday nights, communicate regularly, do their best to acheive goals, and reach out if issues arise.
 
-- Triangle: The member in the triangle role will create a mockup of a machine learning model. This can even be a diagram that explains how it will work concurrently with the rest of the project steps.
+T help our team reach our goal for this segment of the project, we've assigned roles which are outlined below:
+- Square: The team member in the square role will be responsible for the repository. (Ibrahim)
 
-- Circle: The member in the circle role will create a mockup of a database with a set of sample data, or even fabricated data. This will ensure the database will work seamlessly with the rest of the project.
+- Triangle: The member in the triangle role will create a mockup of a machine learning model. This can even be a diagram that explains how it will work concurrently with the rest of the project steps. (Edgar/Robert)
 
-- X: The member in the X role will decide which technologies will be used for each step of the project.
+- Circle: The member in the circle role will create a mockup of a database with a set of sample data, or even fabricated data. This will ensure the database will work seamlessly with the rest of the project. (Joe)
+
+- X: The member in the X role will decide which technologies will be used for each step of the project. (Edgar/Robert)
