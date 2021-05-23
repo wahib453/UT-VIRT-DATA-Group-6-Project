@@ -10,5 +10,5 @@ In segment one we'll complete the following tasks:
 ### Introduction
 For our final project, we'll source a dataset from the US Census Bureau API. This dataset will include individual demographic information - such as age, gender and race - as well as education level and salary. Our machine learning model will predict whether an individual is likely to earn a yearly income below a certain threshold. Then we'll provide resources to help individuals reach their career and life goals.
 
-
+![](image1.PNG)
 
