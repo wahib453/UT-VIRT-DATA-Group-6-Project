@@ -1,7 +1,7 @@
 # UT-VIRT-DATA-Group-6-Project
 
 ### Project Overview
-In segment one, we'll complete the following assignments:
+In segment one we'll complete the following tasks:
 - Define roles between team members and establish a team communication structure
 - Create the foundation for the final project and - importantly - decide on a topic/question that can be answered using data
 - Source a dataset, and begin to clean, organize, and perform exploratory data analysis
