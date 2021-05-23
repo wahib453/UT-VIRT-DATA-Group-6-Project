@@ -21,11 +21,11 @@ As a virtual team, we share the same goal - but we have different obligations an
 T help our team reach our goal for this segment of the project, we've assigned roles which are outlined below:
 - Square: The team member in the square role will be responsible for the repository. (Ibrahim)
 
-- Triangle: The member in the triangle role will create a mockup of a machine learning model. This can even be a diagram that explains how it will work concurrently with the rest of the project steps. (Edgar/Robert)
+- Triangle: The member in the triangle role will create a mockup of a machine learning model. This can even be a diagram that explains how it will work concurrently with the rest of the project steps. (Robert)
 
 - Circle: The member in the circle role will create a mockup of a database with a set of sample data, or even fabricated data. This will ensure the database will work seamlessly with the rest of the project. (Joe)
 
-- X: The member in the X role will decide which technologies will be used for each step of the project. (Edgar/Robert)
+- X: The member in the X role will decide which technologies will be used for each step of the project. (Edgar)
 
 ## Machine Learning Model
 Team members will be expected to present a provisional machine learning model that stands in for the final machine learning model and accomplishes the following:
