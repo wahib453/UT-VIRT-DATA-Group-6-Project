@@ -1,11 +1,10 @@
 # UT-VIRT-DATA-Group-6-Project
 
 ### Introduction
-For segment one, we'll be completing the following assignments:
-- Create the foundation for the final project
-- Define roles between your team members
+In segment one, we'll complete the following assignments:
+- Create the foundation for the final project - and decide on a topic
+- Define roles between team members
 - Establish a team communication structure
--- sdf 
 
 ### Complete the following tasks:
 - Decide on a topic for the project—think of a question that can be answered using data
