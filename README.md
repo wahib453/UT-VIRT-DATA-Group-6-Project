@@ -13,7 +13,7 @@ For our final project, we'll source a dataset from the US Census Bureau API. Thi
 ### Project Objective
 Health, education and income - among numerous other factors - influence quality of life. Our goal is to create a model that will allow users to see if their income is likely to be below the yearly threshold. For individuals who are interested, we'll also provide resources to help them reach their career and life goals.
 
-![](image3.PNG)
+![](HealthyPeopleGraphic.png)
 
 ## Work as a Team
 - Square: The team member in the square role will be responsible for the repository. (Ibrahim)
