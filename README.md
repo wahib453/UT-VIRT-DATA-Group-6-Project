@@ -40,6 +40,13 @@ Basic machine learning process:
 
 In other words, the basic procedure for implementing a supervised learning model: create a model, train the model, and then create predictions.
 
+Our model will use a supervised machine learning process. The basic pattern for supervised learning is:
+
+- Split the data into input (X) and output (y).
+- Create an instance of the model with model = LinearRegression().
+- Train the model with the dataset with model.fit(X,y).
+- Create predictions with y_pred = model.predict(X).
+
 ## Database Integration
 Team members will be expected to present a provisional database that stands in for the final database and accomplishes the following:
 
