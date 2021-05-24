@@ -34,7 +34,16 @@ Team members will be expected to present a provisional machine learning model th
 - Outputs label for input data
 
 ## Database Integration
-Team members will be expected to present a provisional database that stands in for the final database and accomplishes the following:
+Pulling data from census.gov using following api:
+- ACS (American Community Service) API (Possible dataset)
+- PEP (Population Estimates and Projections 2010-2019) API
+- - https://api.census.gov/data/2019/pep/charagegroups?get=NAME,POP,RACE,SEX,AGEGROUP&for=state:*
+- PSEO (Post-Secondary Employment Outcomes) API
+- - https://api.census.gov/data/timeseries/pseo/earnings?get=Y1_P50_EARNINGS,Y1_P25_EARNINGS,Y1_P75_EARNINGS,Y1_GRADS_EARN,Y5_P50_EARNINGS,Y5_P25_EARNINGS,Y5_P75_EARNINGS,Y5_GRADS_EARN,Y10_P50_EARNINGS,Y10_P25_EARNINGS,Y10_P75_EARNINGS,Y10_GRADS_EARN,Y1_IPEDS_COUNT,Y5_IPEDS_COUNT,Y10_IPEDS_COUNT,INSTITUTION,INST_STATE,DEGREE_LEVEL,CIP_LEVEL,CIPCODE,GRAD_COHORT
 
-- Sample data that mimics the expected final database structure or schema
-- Draft machine learning model is connected to the provisional database
+### Database Design
+
+![](QuickDBD-export.svg)
+
+
+
