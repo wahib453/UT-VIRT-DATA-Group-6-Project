@@ -33,19 +33,17 @@ Present a provisional machine learning model that stands in for the final machin
 - Takes in data from the provisional database
 - Outputs label for input data
 
-Basic machine learning process:
-- A machine learning model is presented with a dataset
-- The model algorithms analyze the data and attempt to identify patterns
-- Based on these patterns, the model makes predictions on new data
+The basic procedure for implementing a supervised learning model is as follows: create a model, train the model, and then create predictions.
 
-In other words, the basic procedure for implementing a supervised learning model: create a model, train the model, and then create predictions.
-
-Our model will use a supervised machine learning process. The basic pattern for supervised learning is:
-
+In other words, we'll...
 - Split the data into input (X) and output (y).
 - Create an instance of the model with model = LinearRegression().
 - Train the model with the dataset with model.fit(X,y).
 - Create predictions with y_pred = model.predict(X).
+
+Our model will use logistic regression to predict a binary outcome - two possible outcomes. Our logistic regression will be able to decide, based on personal information, whether an individual will need additional resources. Multiple variables, such as a users age and education level, are assessed to arrive at one of two answers: whether the user is above or below a threshold income.
+
+The logistic regression model analyzes the available data, and when presented with user information, mathematically determines its probability of belonging to a class. If the probability is above a certain cutoff point, the sample is assigned to that class. If the probability is less than the cutoff point, the sample is assigned to the other class.
 
 ## Database Integration
 Team members will be expected to present a provisional database that stands in for the final database and accomplishes the following:
