@@ -13,7 +13,7 @@ For our final project, we'll source a dataset from the US Census Bureau API. Thi
 ### Project Objective
 Health, education and income - among numerous other factors - influence quality of life. Our goal is to create a model that will allow users to see if their income is likely to be below the yearly threshold. For individuals who are interested, we'll also provide resources to help them reach their career and life goals.
 
-![](HealthyPeopleGraphic.png)
+![](Resources/HealthyPeopleGraphic.png)
 
 ## Work as a Team
 As a virtual team, we share the same goal - but we have different obligations and responsibilities outside of this project. In order to reach our goal, we will communicate through Slack and work concurrently via Github. Group members are expected to meet on Monday and Wednesday nights, communicate regularly, do their best to acheive goals, and reach out if issues arise.
@@ -43,7 +43,7 @@ Pulling data from census.gov using following api:
 
 ### Database Design
 
-![](QuickDBD-export.svg)
+![](Resources/DatabaseDesign.png)
 
 
 
