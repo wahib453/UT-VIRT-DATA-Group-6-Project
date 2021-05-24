@@ -35,11 +35,12 @@ Present a provisional machine learning model that stands in for the final machin
 
 The basic procedure for implementing a supervised learning model is as follows: create a model, train the model, and then create predictions.
 
-In other words, we'll...
-- Split the data into input (X) and output (y).
-- Create an instance of the model with model = LinearRegression().
-- Train the model with the dataset with model.fit(X,y).
-- Create predictions with y_pred = model.predict(X).
+In other words, the steps we'll take to use a logistic regression model:
+
+- Create a model with LogisticRegression().
+- Train the model with model.fit().
+- Make predictions with model.predict().
+- Validate the model with accuracy_score().
 
 Our model will use logistic regression to predict a binary outcome - two possible outcomes. Our logistic regression will be able to decide, based on personal information, whether an individual will need additional resources. Multiple variables, such as a users age and education level, are assessed to arrive at one of two answers: whether the user is above or below a threshold income.
 
