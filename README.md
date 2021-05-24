@@ -44,6 +44,9 @@ Pulling data from census.gov using following api:
 ### Database Design
 
 ![](Resources/DatabaseDesign.png)
+![](Resources/PSEO_Variables.png)
+
+
 
 
 
