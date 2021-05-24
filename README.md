@@ -35,16 +35,16 @@ Present a provisional machine learning model that stands in for the final machin
 
 The basic procedure for implementing a supervised learning model is as follows: create a model, train the model, and then create predictions.
 
-In other words, the steps we'll take to use a logistic regression model:
+Our model will use logistic regression to predict a binary outcome - two possible outcomes. Our logistic regression will be able to decide, based on personal information, whether an individual will need additional resources. Multiple variables, such as a users age and education level, are assessed to arrive at one of two answers: whether the user is above or below a threshold income.
+
+ We'll take the following steps to use a logistic regression model:
 
 - Create a model with LogisticRegression().
 - Train the model with model.fit().
 - Make predictions with model.predict().
 - Validate the model with accuracy_score().
 
-Our model will use logistic regression to predict a binary outcome - two possible outcomes. Our logistic regression will be able to decide, based on personal information, whether an individual will need additional resources. Multiple variables, such as a users age and education level, are assessed to arrive at one of two answers: whether the user is above or below a threshold income.
-
-The logistic regression model analyzes the available data, and when presented with user information, mathematically determines its probability of belonging to a class. If the probability is above a certain cutoff point, the sample is assigned to that class. If the probability is less than the cutoff point, the sample is assigned to the other class.
+Again, the logistic regression model analyzes the available data, and when presented with user information, mathematically determines its probability of belonging to class 0 or class 1. If the probability is above a certain cutoff point, the sample is assigned to class 1. If the probability is less than the cutoff point, the sample is assigned to class 0.
 
 ## Database Integration
 Team members will be expected to present a provisional database that stands in for the final database and accomplishes the following:
