@@ -28,14 +28,27 @@ T help our team reach our goal for this segment of the project, we've assigned r
 - X: The member in the X role will decide which technologies will be used for each step of the project. (Edgar)
 
 ## Machine Learning Model
-Team members will be expected to present a provisional machine learning model that stands in for the final machine learning model and accomplishes the following:
+Present a provisional machine learning model that stands in for the final machine learning model and accomplishes the following:
 
 - Takes in data from the provisional database
 - Outputs label for input data
+
+Basic machine learning process:
+- A machine learning model is presented with a dataset
+- The model algorithms analyze the data and attempt to identify patterns
+- Based on these patterns, the model makes predictions on new data
+
+In other words, the basic procedure for implementing a supervised learning model: create a model, train the model, and then create predictions.
+
+Our model will use a supervised machine learning process. The basic pattern for supervised learning is:
+
+- Split the data into input (X) and output (y).
+- Create an instance of the model with model = LinearRegression().
+- Train the model with the dataset with model.fit(X,y).
+- Create predictions with y_pred = model.predict(X).
 
 ## Database Integration
 Team members will be expected to present a provisional database that stands in for the final database and accomplishes the following:
 
 - Sample data that mimics the expected final database structure or schema
 - Draft machine learning model is connected to the provisional database
-
