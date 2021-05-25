@@ -13,7 +13,7 @@ For our final project, we'll source a dataset from the US Census Bureau API. Thi
 ### Project Objective
 Health, education and income - among numerous other factors - influence quality of life. Our goal is to create a model that will allow users to see if their income is likely to be below the yearly threshold. For individuals who are interested, we'll also provide resources to help them reach their career and life goals.
 
-![](HealthyPeopleGraphic.png)
+![](Resources/HealthyPeopleGraphic.png)
 
 ## Work as a Team
 As a virtual team, we share the same goal - but we have different obligations and responsibilities outside of this project. In order to reach our goal, we will communicate through Slack and work concurrently via Github. Group members are expected to meet on Monday and Wednesday nights, communicate regularly, do their best to acheive goals, and reach out if issues arise.
@@ -47,7 +47,19 @@ Our model will use logistic regression to predict a binary outcome - two possibl
 Again, the logistic regression model analyzes the available data, and when presented with user information, mathematically determines its probability of belonging to class 0 or class 1. If the probability is above a certain cutoff point, the sample is assigned to class 1. If the probability is less than the cutoff point, the sample is assigned to class 0.
 
 ## Database Integration
-Team members will be expected to present a provisional database that stands in for the final database and accomplishes the following:
+Pulling data from census.gov using following api:
+- ACS (American Community Service) API (Possible dataset)
+- PEP (Population Estimates and Projections 2010-2019) API
+- - https://api.census.gov/data/2019/pep/charagegroups?get=NAME,POP,RACE,SEX,AGEGROUP&for=state:*
+- PSEO (Post-Secondary Employment Outcomes) API
+- - https://api.census.gov/data/timeseries/pseo/earnings?get=Y1_P50_EARNINGS,Y1_P25_EARNINGS,Y1_P75_EARNINGS,Y1_GRADS_EARN,Y5_P50_EARNINGS,Y5_P25_EARNINGS,Y5_P75_EARNINGS,Y5_GRADS_EARN,Y10_P50_EARNINGS,Y10_P25_EARNINGS,Y10_P75_EARNINGS,Y10_GRADS_EARN,Y1_IPEDS_COUNT,Y5_IPEDS_COUNT,Y10_IPEDS_COUNT,INSTITUTION,INST_STATE,DEGREE_LEVEL,CIP_LEVEL,CIPCODE,GRAD_COHORT
 
-- Sample data that mimics the expected final database structure or schema
-- Draft machine learning model is connected to the provisional database
+### Database Design
+
+![](Resources/DatabaseDesign.png)
+![](Resources/PSEO_Variables.png)
+
+
+
+
+
