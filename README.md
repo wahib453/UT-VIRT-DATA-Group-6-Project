@@ -8,7 +8,7 @@ In segment one we'll complete the following tasks:
 - Create mockups of a machine learning model, a database, and a firm grasp of how you want these different pieces to interact
 
 ### Introduction
-Air pollution is a major environmental and public health concern. Exposure to air pollution - such as fine particulate matter (PM 2.5) - can affect respiratory, cardiovascular, cardiopulmonary, and reproductive systems. Different populations have reported that increased fine particulate matter (PM2.5) concentrations can cause elevated susceptibility to respiratory diseases, including acute respiratory distress, asthma, chronic obstructive pulmonary disease, and lung cancer.
+Air pollution is a major environmental and public health concern. Air pollution includes particulate matter - all solid and liquid particles suspended in air. This complex mixture includes both organic and inorganic particles, such as dust, pollen, soot, smoke, and liquid droplets. These particles vary greatly in size, composition, and origin. - such as fine particulate matter (PM 2.5) - can affect respiratory, cardiovascular, cardiopulmonary, and reproductive systems. Different populations have reported that increased fine particulate matter (PM2.5) concentrations can cause elevated susceptibility to respiratory diseases, including acute respiratory distress, asthma, chronic obstructive pulmonary disease, and lung cancer.
 
 ![](ParticulateMatter.jpg)
 
