@@ -8,12 +8,12 @@ In segment one we'll complete the following tasks:
 - Create mockups of a machine learning model, a database, and a firm grasp of how you want these different pieces to interact
 
 ### Introduction
-For our final project, we'll source a dataset from the US Census Bureau API. This dataset will include individual demographic information - such as age, gender and race - as well as education level and salary. Our machine learning model will predict whether an individual is likely to earn a yearly income below a certain threshold. 
+Air pollution is a major environmental and public health concern. Exposure to air pollution - such as fine particulate matter (PM 2.5) - can affect respiratory, cardiovascular, cardiopulmonary, and reproductive systems. Different populations have reported that increased fine particulate matter (PM2.5) concentrations can cause elevated susceptibility to respiratory diseases, including acute respiratory distress, asthma, chronic obstructive pulmonary disease, and lung cancer.
+
+Four final project, our aim is to assess the relationship between fine particulate matter and the severity of COVID-19 symptoms.  source a dataset from the US Census Bureau API. This dataset will include individual demographic information - such as age, gender and race - as well as education level and salary. Our machine learning model will predict whether an individual is likely to earn a yearly income below a certain threshold. 
 
 ### Project Objective
 Health, education and income - among numerous other factors - influence quality of life. Our goal is to create a model that will allow users to see if their income is likely to be below the yearly threshold. For individuals who are interested, we'll also provide resources to help them reach their career and life goals.
-
-![](Resources/HealthyPeopleGraphic.png)
 
 ## Work as a Team
 As a virtual team, we share the same goal - but we have different obligations and responsibilities outside of this project. In order to reach our goal, we will communicate through Slack and work concurrently via Github. Group members are expected to meet on Monday and Wednesday nights, communicate regularly, do their best to acheive goals, and reach out if issues arise.
