@@ -10,6 +10,8 @@ In segment one we'll complete the following tasks:
 ### Introduction
 Air pollution is a major environmental and public health concern. Exposure to air pollution - such as fine particulate matter (PM 2.5) - can affect respiratory, cardiovascular, cardiopulmonary, and reproductive systems. Different populations have reported that increased fine particulate matter (PM2.5) concentrations can cause elevated susceptibility to respiratory diseases, including acute respiratory distress, asthma, chronic obstructive pulmonary disease, and lung cancer.
 
+![](Particulate Matter.jpg)
+
 Four final project, our aim is to assess the relationship between fine particulate matter and the severity of COVID-19 symptoms.  source a dataset from the US Census Bureau API. This dataset will include individual demographic information - such as age, gender and race - as well as education level and salary. Our machine learning model will predict whether an individual is likely to earn a yearly income below a certain threshold. 
 
 ### Project Objective
