@@ -7,15 +7,24 @@ In segment one we'll complete the following tasks:
 - Source a dataset, and begin to clean, organize, and perform exploratory data analysis
 - Create mockups of a machine learning model, a database, and a firm grasp of how you want these different pieces to interact
 
-### Introduction
-Air pollution is a major environmental and public health concern. Air pollution includes particulate matter - all solid and liquid particles suspended in air. This complex mixture includes both organic and inorganic particles, such as dust, pollen, soot, smoke, and liquid droplets. These particles vary greatly in size, composition, and origin. - such as fine particulate matter (PM 2.5) - can affect respiratory, cardiovascular, cardiopulmonary, and reproductive systems. Different populations have reported that increased fine particulate matter (PM2.5) concentrations can cause elevated susceptibility to respiratory diseases, including acute respiratory distress, asthma, chronic obstructive pulmonary disease, and lung cancer.
+### Introduction: Project Topic, Rationale and Goal
+
+Reason they selected the topic 
+Description of the source of data
+Questions they hope to answer with the data
+
+### Projecct Topic: Particulate Matter and COVID-19 Outcomes
+Air pollution is a major public health concern due to its negative impact on individual and population health. A major component of air pollution is particulate matter - all the solid and liquid particles suspended in air. Particulate matter (PM) can enter the body through respiration, and may negatively impact peoples' respiratory, cardiovascular, cardiopulmonary, and reproductive systems. The route of entry - and system affected - depends on the size of particulate matter.
 
 ![](ParticulateMatter.jpg)
 
-Four final project, our aim is to assess the relationship between fine particulate matter and the severity of COVID-19 symptoms.  source a dataset from the US Census Bureau API. This dataset will include individual demographic information - such as age, gender and race - as well as education level and salary. Our machine learning model will predict whether an individual is likely to earn a yearly income below a certain threshold. 
+We have chosen PM 2.5, specifically, because this size of particulate matter can reach the lower respiratory system. Studies have shown that increased concentrations of fine particulate matter can cause elevated susceptibility to respiratory disease. This, in turn, may exascerbate the symptoms caused by COVID-19, and increase hospitalizations and deaths due to COVID-19.
 
-### Project Objective
-Health, education and income - among numerous other factors - influence quality of life. Our goal is to create a model that will allow users to see if their income is likely to be below the yearly threshold. For individuals who are interested, we'll also provide resources to help them reach their career and life goals.
+### Project Objective: The Question We Hope to Answer
+For our final project, we have chosen to create a machine learning model to assess the relationship between PM2.5 (atmospheric particulate matter with diameter less than 2.5 μm) and the clinical outcomes of COVID-19. The question we hope to answer is as follows: does increased conccentrations of particulate matter contribute to an increase in the severity of COVID-19 symptoms, and lead to higher hospitalization and death rates?
+
+### Why We Selected This Topic
+We selected this topic (PM 2.5 and COVID-19) becuase this disease has had an immense impact on the world. Understanding what exascerbates COVID-19 symptoms - contributes to COVID associated hospitalizations and death - is an important and fascinating area of study. This is also a great opportunity to exercise the skills we've learned in our data analysis program.
 
 ## Work as a Team
 As a virtual team, we share the same goal - but we have different obligations and responsibilities outside of this project. In order to reach our goal, we will communicate through Slack and work concurrently via Github. Group members are expected to meet on Monday and Wednesday nights, communicate regularly, do their best to acheive goals, and reach out if issues arise.
@@ -37,7 +46,7 @@ Present a provisional machine learning model that stands in for the final machin
 
 The basic procedure for implementing a supervised learning model is as follows: create a model, train the model, and then create predictions.
 
-Our model will use logistic regression to predict a binary outcome - two possible outcomes. Our logistic regression will be able to decide, based on personal information, whether an individual will need additional resources. Multiple variables, such as a users age and education level, are assessed to arrive at one of two answers: whether the user is above or below a threshold income.
+Our model will use logistic regression to predict a binary outcome - two possible outcomes. Our logistic regression will be able to decide, based on county level data, whether higher concentrations of PM 2.5 is associated with increased COVID-19 hospitalizations and deaths.
 
  We'll take the following steps to use a logistic regression model:
 
@@ -46,7 +55,6 @@ Our model will use logistic regression to predict a binary outcome - two possibl
 - Make predictions with model.predict().
 - Validate the model with accuracy_score().
 
-Again, the logistic regression model analyzes the available data, and when presented with user information, mathematically determines its probability of belonging to class 0 or class 1. If the probability is above a certain cutoff point, the sample is assigned to class 1. If the probability is less than the cutoff point, the sample is assigned to class 0.
 
 ## Database Integration
 Pulling data from census.gov using following api:
