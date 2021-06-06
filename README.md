@@ -32,7 +32,7 @@ T help our team reach our goal for this segment of the project, we've assigned r
 
 - X: The member in the X role will decide which technologies will be used for each step of the project. (Edgar)
 
-## Machine Learning Model (see income.ipynb for basic script outline)
+## Machine Learning Model (see Covid_PM_Model.ipynb for basic script outline)
 Present a provisional machine learning model that stands in for the final machine learning model and accomplishes the following:
 
 - Takes in data from the provisional database
