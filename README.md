@@ -63,20 +63,9 @@ Pulling data from covidactnow.org and US EPA using following api:
 
 
 
+### Google Slides
+https://docs.google.com/presentation/d/1QtQoBtW4AktTGot_MRScFSNJ2KotpPKPlfP7MPlIExM/edit?usp=sharing
 
-
-
-
-
-
-
-
-
-✓ Description of the analysis phase of the project
-
-
-
-Slides Presentations are drafted in Google Slides. 
 
 
 
