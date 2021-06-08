@@ -65,5 +65,8 @@ Pulling data from covidactnow.org and US EPA using following api:
 ### Google Slides
 https://docs.google.com/presentation/d/1QtQoBtW4AktTGot_MRScFSNJ2KotpPKPlfP7MPlIExM/edit?usp=sharing
 
+### Dashboard
+https://docs.google.com/presentation/d/1QtQoBtW4AktTGot_MRScFSNJ2KotpPKPlfP7MPlIExM/edit?usp=sharing
+
 
 
