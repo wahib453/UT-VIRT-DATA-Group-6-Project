@@ -1,5 +1,11 @@
 # UT-VIRT-DATA-Group-6-Project
 
+## Table of Content:
+* [Segment Overview](#Segment-Overview)
+* [Project topic](#Project-topic)
+* [Why We Selected This Topic](#Why-We-Selected-This-Topic)
+
+
 ### Segment Overview
 In segment one we'll complete the following tasks:
 - Create the foundation for the final project and - importantly - decide on a topic/question that can be answered using data
