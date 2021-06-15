@@ -4,9 +4,12 @@
 
 ### Purpose
 
-I.GitHub
-    A.Main Branch
-    B.README.md
+#### I.GitHub
+
+##### A.Main Branch
+
+##### B.README.md
+
         1.Description of the communication protocols:
         As a virtual team, we share the same goal - but we have different obligations and responsibilities outside of this project. In order to reach our goal, we will communicate through Slack and work concurrently via Github. Group members are expected to meet on Monday and Wednesday nights, communicate regularly, do their best to acheive goals, and reach out if issues arise.
         2.Presentation
