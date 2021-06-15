@@ -1,6 +1,21 @@
 # UT-VIRT-DATA-GROUP-6-PROJECT
 
+<<<<<<< HEAD
 ## Segment One Overview
+=======
+## Table of Content:
+* [Segment Overview](#Segment-Overview)
+* [Project topic](#Project-topic)
+* [Why We Selected This Topic](#Why-We-Selected-This-Topic)
+
+
+### Segment Overview
+In segment one we'll complete the following tasks:
+- Create the foundation for the final project and - importantly - decide on a topic/question that can be answered using data
+- Define roles between team members and establish a team communication structure
+- Source a dataset, and begin to clean, organize, and perform exploratory data analysis
+- Create mockups of a machine learning model, a database, and a firm grasp of how you want these different pieces to interact
+>>>>>>> 015eeef2ba91912109a5f574253ba0b18b752984
 
 ### Purpose
 
@@ -41,4 +56,18 @@
 
 ### Database Design
 
+<<<<<<< HEAD
 ![](Resources/CovidProjectDatabaseDesign.png)
+=======
+![](Resources/CovidProjectDatabaseDesign.png)
+
+
+### Google Slides
+https://docs.google.com/presentation/d/1QtQoBtW4AktTGot_MRScFSNJ2KotpPKPlfP7MPlIExM/edit?usp=sharing
+
+### Dashboard
+https://docs.google.com/presentation/d/1QtQoBtW4AktTGot_MRScFSNJ2KotpPKPlfP7MPlIExM/edit?usp=sharing
+
+
+
+>>>>>>> 015eeef2ba91912109a5f574253ba0b18b752984
