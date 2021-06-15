@@ -1,20 +1,24 @@
-# UT-VIRT-DATA-Group-6-Project
+# Particulate Matter and COVID-19 Outcomes
 
-### Segment Overview
+## Segment One Overview
+
 In segment one we'll complete the following tasks:
-- Create the foundation for the final project and - importantly - decide on a topic/question that can be answered using data
+
+- Decide on a topic/question that can be answered using data
 - Define roles between team members and establish a team communication structure
 - Source a dataset, and begin to clean, organize, and perform exploratory data analysis
 - Create mockups of a machine learning model, a database, and a firm grasp of how you want these different pieces to interact
 
 ### Project Topic: Particulate Matter and COVID-19 Outcomes
+
 Air pollution is a major public health concern due to its negative impact on individual and population health. A major component of air pollution is particulate matter - all the solid and liquid particles suspended in air. Particulate matter (PM) can enter the body through inhalation, and may negatively impact peoples' respiratory, cardiovascular, cardiopulmonary, and reproductive systems. The route of entry - and system affected - depends on the size, shape, and concentration or density of the particulate matter.
 
-![](Resources/ParticulateMatter.jpg)
+![ParticulateMatter](Resources/ParticulateMatter.jpg)
 
 We have chosen PM 2.5, specifically, because this size of particulate matter can reach the lower respiratory system. Studies have shown that increased concentrations of fine particulate matter can cause elevated susceptibility to respiratory disease. This, in turn, may exascerbate the symptoms caused by COVID-19, and increase hospitalizations and deaths due to COVID-19.
 
 ### Project Objective: The Question We Hope to Answer
+
 For our final project, we have chosen to create a machine learning model to assess the relationship between PM2.5 (atmospheric particulate matter with diameter less than 2.5 μm) and the clinical outcomes of COVID-19. The question we hope to answer is as follows: does increased concentrations of particulate matter contribute to an increase in the severity of COVID-19 symptoms, and lead to higher hospitalization and death rates?
 
 ### Why We Selected This Topic
