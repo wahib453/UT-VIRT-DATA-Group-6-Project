@@ -4,8 +4,8 @@
 
 ### Purpose
 
-I. GitHub
-    A. Main Branch
+1. GitHub
+    - Main Branch
 
 ##### B. README.md
 
