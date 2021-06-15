@@ -25,19 +25,3 @@
      - Can this relation be modeled and then use to predict number of hopitalizations and possible deaths that could result from exposure        to particulates matter?
 
    - Individual Branches
-
-3. Machine Learning Model(see Covid_PM_Model.ipynb for basic script outline): a machine learning model that retrieves data from a            database and outputs label(s) for input data. We will use logistic regression to predict a binary outcome - two possible outcomes -      hospitalizations and deaths rates. We'll take the following steps to use a logistic regression model:
-
-    - Create a model with LogisticRegression().
-    - Train the model with model.fit().
-    - Make predictions with model.predict().
-    - Validate the model with accuracy_score().
-
-4. Database: a database that represent the final database structure and allows a drafted machine learning model to be connected.
-
-### Database Design
-
-![](Resources/CovidProjectDatabaseDesign.png)
-
-
-
